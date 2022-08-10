@@ -1,0 +1,14 @@
+Cle de l'auteur : (7cdf,9fd1) 
+valeur hachee : efe90dc1ddb4c42180a717a2c179be1af315fec5434ab6553c800e62ecddaf4f 
+valeur precedente hachee 6da441fb2ebacc718bbe5cda76907fd5cf86de4cccc8225a8de67d2ad3ed23f2 
+preuve de travaille : 103 
+(d0f,1985) , (dff,10d3) , #8c2#1c3#1257#1257#ff#16cc#17b0#1c3#17ef#164a#
+(1e0d,303d) , (5d95,67b5) , #6#1199#d23#1dd9#1199#79e#1ea5#1768#1ce1#1199#2b58#
+(5bf3,b9c9) , (d3f,1f2b) , #a617#67b9#2ed6#6238#25bc#50f8#6238#8a7f#a27c#a00e#
+(ad5,17ab) , (dff,10d3) , #eac#12a4#75#75#819#12ba#22f#12a4#339#54b#
+(16fd,4aa5) , (5d95,67b5) , #1db#7dc#1e20#3577#7dc#253b#4499#241b#919#7dc#3bef#
+(f37,2461) , (d3f,1f2b) , #1f90#15da#463#1599#244a#1415#1599#892#b60#198c#
+(197,143f) , (10f1,3f2b) , #f49#24b#1428#2be#24b#b3b#12c8#2be#13b3#c11#d79#
+(24d,29f) , (d3f,1f2b) , #a2#2d#15d#7d#21b#266#7d#e9#204#1eb#
+(17d,b71) , (dff,10d3) , #992#5ea#458#458#41e#928#b2f#5ea#2a#29#
+(7cdf,9fd1) , (10f1,3f2b) , #2151#1870#6694#419d#1870#5822#3086#419d#2930#85bb#d01#
