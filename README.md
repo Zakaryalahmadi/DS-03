@@ -1,4 +1,4 @@
-`projet
+```projet
 │
 └───bin        // executables
 │   
@@ -8,4 +8,4 @@
 │   
 └───lib   // .c
   |___ Headers // .h
- `
+ ```
