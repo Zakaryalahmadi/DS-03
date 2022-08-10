@@ -2,9 +2,9 @@
 │
 └───bin        // executables
 │   
-└───GRAPH           // schemas/courbes
+└───Blockchain        // bloc et pending_vote/block  
 │   
-└───blockchain    // bloc et pending_vote/block
+└───Graph     // schemas/courbes
 │   
 └───lib   // .c
   |___ Headers // .h
